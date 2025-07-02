@@ -4,10 +4,10 @@ Este proyecto es una práctica de diseño de tarjetas de productos utilizando **
 
 ## 📸 Capturas de pantalla
 
-### 💻 Versión Desktop
+### 💻 Versión Móvil / Tablet
 ![Preview](img/captura1.png) 
 
-### 📱 Versión Móvil / Tablet
+### 📱 Versión Desktop 
 ![Preview](img/captura2.png)
 
 ## 💡 Características
