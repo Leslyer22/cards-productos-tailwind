@@ -2,13 +2,7 @@
 
 Este proyecto es una práctica de diseño de tarjetas de productos utilizando **Tailwind CSS**. La interfaz presenta una pequeña tienda con productos ficticios y un diseño responsive adaptable a pantallas móviles y de escritorio.
 
-## 📸 Capturas de pantalla
 
-### 💻 Versión Móvil / Tablet
-![Preview](img/captura1.png) 
-
-### 📱 Versión Desktop 
-![Preview](img/captura2.png)
 
 ## 💡 Características
 
@@ -22,5 +16,11 @@ Este proyecto es una práctica de diseño de tarjetas de productos utilizando **
 - HTML5
 - Tailwind CSS
 
-## 📁 Estructura del proyecto
+## 📸 Capturas de pantalla
+
+### 💻 Versión Móvil / Tablet
+![Preview](img/captura1.png) 
+
+### 📱 Versión Desktop 
+![Preview](img/captura2.png)
 
